@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import style from './EventCard.module.css';
-import Button from './ui/button';
+import Button from './ui/Button';
 
 const EventCard = (props: {
   title: string;
